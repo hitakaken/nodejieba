@@ -5,6 +5,7 @@
 #include <v8.h>
 #include <nan.h>
 #include <string.h>
+#include <time.h>
 #include <iostream>
 #include <sstream>
 #include <string>
